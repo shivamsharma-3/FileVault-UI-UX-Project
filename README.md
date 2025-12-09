@@ -1,8 +1,9 @@
-#Visit: https://shivamsharma-3.github.io/FileVault-UI-UX-Project/
-
 # FileVault – UI/UX Landing Page
 
 ## Project Overview
+
+live site: https://shivamsharma-3.github.io/FileVault-UI-UX-Project/
+
 This project was created as part of a UI/UX skill assessment.  
 The focus is on **clean layout, usability, accessibility, and visual hierarchy** rather than backend functionality.  
 All interactions are lightweight placeholders to demonstrate user flow and design intent.
